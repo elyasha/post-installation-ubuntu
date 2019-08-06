@@ -41,4 +41,87 @@ This project has a really good checklist for things to do after installing Ubunt
 27. (Optional) Check other interfaces
 28. Create a Backup Plan
 
+**Programs**
+battery charge graph
+caffeine extension
+clion
+gconf
+fast
+geogebra
+gimp
+tweaks
+gnu octave
+logisim
+matlab
+mathematica
+virtualbox
+dropbox
+Dconf editor
+chrome
+notion
+plank
+git
+plank preferences
+pycharm pro
+qtiplot
+grace
+spotify
+telegram
+texstudio
+tilda
+to do
+tor browser
+visual studio code
+vlc
+wireshark
+atom
+vim
+asdf (ruby, erlang, golang, python, nodejs, elixir, kotlin, rust, crystal)
+tmux
+ssh
+gitkraken
+zsh
+yadr
+calibre
 
+sudo apt install build-essential default-jdk libssl-dev exuberant-ctags ncurses-term ack-grep silversearcher-ag fontconfig imagemagick libmagickwand-dev software-properties-common git vim-gtk3 curl
+
+sudo apt install postgresql-10 postgresql-contrib postgresql-server-dev-10 redis-server libhiredis-dev memcached libmemcached-dev
+
+docker
+nerdtree
+
+
+
+
+
+**extensions**
+activities configurator
+applications menu
+auto move windows
+blyr
+caffeine
+clipboard indicator
+coverflow alt-tab
+cpu power manager
+dash to dock
+disconnect wifi
+do not disturb
+easyscreencast
+expressvpn manager
+log out button
+media player indicator
+native window placement
+openweather
+place status indicator
+refresh wifi connections
+removable drive menu
+show desktop menu
+show desktop button
+suspend button
+todo.txt
+user themes
+vitals
+weather in the clock
+workspace indicator
+workspaces to dock
