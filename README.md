@@ -12,7 +12,7 @@ sudo apt update && sudo apt upgrade
   ```console
 sudo apt install ubuntu-restricted-extras
 ```
-5. Install software from the Software Center
+5. Install software from the Software Center and log in into snap store and Ubuntu One
 6. Install software from the Web
 7. (Optional) Use Flatpak in Ubuntu to get access to more applications
   ```console
