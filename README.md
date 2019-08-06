@@ -60,7 +60,6 @@ sudo apt install gnome-tweak-tool
 28. Create a Backup Plan
 
 **Programs**
-battery charge graph
 caffeine extension
 clion
 gconf
@@ -87,7 +86,6 @@ spotify
 telegram
 texstudio
 tilda
-to do
 tor browser
 visual studio code
 vlc
@@ -104,7 +102,9 @@ calibre
 
 sudo apt install build-essential default-jdk libssl-dev exuberant-ctags ncurses-term ack-grep silversearcher-ag fontconfig imagemagick libmagickwand-dev software-properties-common git vim-gtk3 curl
 
-sudo apt install postgresql-10 postgresql-contrib postgresql-server-dev-10 redis-server libhiredis-dev memcached libmemcached-dev
+sudo apt install postgresql-11 postgresql-contrib postgresql-server-dev-11 redis-server libhiredis-dev memcached libmemcached-dev
+
+mongodb
 
 docker
 nerdtree
