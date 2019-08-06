@@ -5,6 +5,7 @@ This project has a really good checklist for things to do after installing Ubunt
   ```console
 sudo apt update && sudo apt upgrade
 ```
+1.2 Change the settings with the GUI of GNOME
 2. (Optional) Enable additional repositories for more software
 3. Customize the GNOME desktop
 4. Install media codecs
