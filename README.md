@@ -58,6 +58,7 @@ sudo apt install gnome-tweak-tool
 26. Get Important Firefox Addons or try other browser
 27. (Optional) Check other interfaces
 28. Create a Backup Plan
+29. Create your own shortcuts for ubuntu (Super+E = Nautilus)
 
 **Programs**
 caffeine extension
