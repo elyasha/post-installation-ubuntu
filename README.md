@@ -28,6 +28,8 @@ sudo apt install gnome-tweak-tool
 10. Extend the usability of GNOME desktop with GNOME extensions
 11. Prolong my battery and prevent overheating
   ```console
+  sudo add-apt-repository ppa:linrunner/tlp
+  sudo apt-get update & upgrade
   sudo apt install tlp tlp-rdw
   sudo tlp start
   ```
