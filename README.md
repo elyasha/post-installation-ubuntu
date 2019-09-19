@@ -1,6 +1,8 @@
 # post-installation-ubuntu
 This project has a really good checklist for things to do after installing Ubuntu
 
+![alt text](screenshots/Screenshot1.png)
+
 1. Update the system
   ```console
 sudo apt update && sudo apt upgrade
