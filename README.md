@@ -107,7 +107,7 @@ calibre
 gawk
 translate-shell
 
-sudo apt install build-essential default-jdk libssl-dev exuberant-ctags ncurses-term ack-grep silversearcher-ag fontconfig imagemagick libmagickwand-dev software-properties-common git vim-gtk3 curl lib32readline7 lib32readline-dev 
+sudo apt install build-essential default-jdk libssl-dev exuberant-ctags ncurses-term ack-grep silversearcher-ag fontconfig imagemagick libmagickwand-dev software-properties-common git vim-gtk3 curl lib32readline7 lib32readline-dev sqlite3 libsqlite3-dev
 
 sudo apt install postgresql-11 postgresql-contrib postgresql-server-dev-11 redis-server libhiredis-dev memcached libmemcached-dev
 
